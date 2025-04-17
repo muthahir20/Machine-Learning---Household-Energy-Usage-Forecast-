@@ -5,10 +5,10 @@ In the modern world, energy management is a critical issue for both households a
 
 #Packages used:
 
-`'import numpy as np'` </br>
-`'import seaborn as sns'` </br>
-`'import matplotlib.pyplot as plt'` </br>
-`'import pandas as pd'` </br>
+`import numpy as np` </br>
+`import seaborn as sns` </br>
+`import matplotlib.pyplot as plt` </br>
+`import pandas as pd` </br>
 `from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score` </br>
 `from sklearn.linear_model import LinearRegression` </br>
 `from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor` </br>
